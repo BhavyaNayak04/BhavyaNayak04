@@ -1,4 +1,1 @@
-# Hi there 👋, I'm Bhavya
-## 📖 Currently in 3rd year BTech, CSE.
-## 👩🏻‍💻 NMAM Institute of Technology, Nitte, Karkala.
-## 🏠 Udupi, Karnataka, India.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BhavyaNayak04)](https://github.com/anuraghazra/github-readme-stats)
