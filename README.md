@@ -1,10 +1,6 @@
 # Hi 👋, I'm Bhavya Nayak
 ### A passionate web developer from India
 
-## 💫 About Me:
-🔭 I’m currently working on Club Net<br>🌱 I’m currently learning Spring Boot, Mongo DB
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavyanayak) 
 
