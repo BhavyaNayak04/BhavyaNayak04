@@ -1,9 +1,7 @@
 # Hi, I'm Bhavya Nayak  
 A passionate web developer from India  
 
----
-
-## 🚀 Tech Stack  
+## Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -27,9 +25,7 @@ A passionate web developer from India
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>  
 
----
-
-## 📊 Stats
+## Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BhavyaNayak04&theme=dark&hide_border=true&include_all_commits=false&count_private=true" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavyaNayak04&theme=dark&hide_border=true" height="150"/>
