@@ -26,6 +26,6 @@ A passionate web developer from India
 
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavyaNayak04&theme=dark&hide_border=true" height="150"/>
+  <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BhavyaNayak04&theme=dark&hide_border=true" height="150"/></p>
 
 </div>
