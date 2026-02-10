@@ -1,6 +1,5 @@
 ### Hi, I'm Bhavya
-A passionate web developer from India  
-
+Currently exploring system design
 #### Tech Stack  
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
